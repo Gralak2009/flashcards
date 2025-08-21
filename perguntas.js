@@ -13,9 +13,7 @@ criaCartao(
 criaCartao(
     'fisica',
     'Quanto tempo a luz do Sol demora para chegar à Terra?',
-    ' 8 minutos. 150 000 000 dividido por 300 000 é igual a 500 segundos, ou seja, 8,33 minutos.
-
-'
+    ' 8 minutos. 150 000 000 dividido por 300 000 é igual a 500 segundos, ou seja, 8,33 minutos.'
 )
     criaCartao(
     'arte',
